@@ -1,0 +1,13 @@
+system,test_set,n,BLEU,chrF++,num_match,minutes
+nllb600M_reference,in22_gen,1000,25.05,50.94,98.1,1.4
+nllb600M_reference,in22_conv,1000,24.13,45.81,96.7,0.4
+nllb600M_reference,iitb_test,1000,23.74,49.35,99.2,0.9
+qwen_3shot_baseline,in22_gen,1000,6.16,25.82,71.6,10.6
+qwen_3shot_baseline,in22_conv,1000,6.8,26.14,80.0,8.5
+qwen_3shot_baseline,iitb_test,1000,4.98,25.27,70.2,10.4
+qwen_qlora_rules_only,in22_gen,1000,10.78,33.33,89.7,13.5
+qwen_qlora_rules_only,in22_conv,1000,12.06,32.77,90.0,6.0
+qwen_qlora_rules_only,iitb_test,1000,9.61,32.01,87.6,11.5
+qwen_qlora_rules_labse,in22_gen,1000,12.32,35.89,92.5,13.1
+qwen_qlora_rules_labse,in22_conv,1000,13.14,34.48,91.7,5.9
+qwen_qlora_rules_labse,iitb_test,1000,10.95,34.25,91.5,10.5

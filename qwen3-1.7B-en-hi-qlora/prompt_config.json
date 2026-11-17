@@ -1,0 +1,8 @@
+{
+  "prompt_template": "Translate English to Hindi.\nNumerals: {num}\nEnglish: {en}\nHindi:",
+  "numerals": [
+    "international",
+    "native"
+  ],
+  "base_model": "Qwen/Qwen3-1.7B-Base"
+}

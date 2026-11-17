@@ -1,0 +1,4 @@
+decoding,BLEU,chrF++,num_match,relative_cost
+greedy,12.09,35.65,91.8,1.0
+MBR-chrF (6 cands),12.2,36.21,93.4,6.5
+LaBSE-QE (6 cands),11.82,35.6,92.9,6.5
